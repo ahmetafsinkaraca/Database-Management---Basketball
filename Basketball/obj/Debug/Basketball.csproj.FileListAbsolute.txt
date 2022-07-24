@@ -1,0 +1,12 @@
+C:\Users\ahmet\source\repos\Basketball\Basketball\bin\Debug\Database1.mdf
+C:\Users\ahmet\source\repos\Basketball\Basketball\bin\Debug\Database1_log.ldf
+C:\Users\ahmet\source\repos\Basketball\Basketball\bin\Debug\Basketball.exe.config
+C:\Users\ahmet\source\repos\Basketball\Basketball\bin\Debug\Basketball.exe
+C:\Users\ahmet\source\repos\Basketball\Basketball\bin\Debug\Basketball.pdb
+C:\Users\ahmet\source\repos\Basketball\Basketball\obj\Debug\Basketball.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\Basketball\Basketball\obj\Debug\Basketball.Form1.resources
+C:\Users\ahmet\source\repos\Basketball\Basketball\obj\Debug\Basketball.Properties.Resources.resources
+C:\Users\ahmet\source\repos\Basketball\Basketball\obj\Debug\Basketball.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\Basketball\Basketball\obj\Debug\Basketball.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\Basketball\Basketball\obj\Debug\Basketball.exe
+C:\Users\ahmet\source\repos\Basketball\Basketball\obj\Debug\Basketball.pdb
